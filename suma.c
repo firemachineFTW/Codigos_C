@@ -2,14 +2,11 @@
 #include <stdlib.h>
 
 int main(){
-	//Quiero imprimir el numero 3
-	printf("%d \n", 3);
 	
-	//Quiero imprimir la suma de 3 + 4
-	printf("%d \n", 3+4);
+	printf("LA SUMA DE %d + %d es = %d\n",5,8,5+8);
+	printf("\n");
 	
-	printf("La suma de %d + %d es = %d\n", 3,4,3+4);
+	printf("LA SUMA DE %d + %d es = %d\n",78787,3259,78787+3259);
 	
 	system("pause");
-	return 0;
 }
